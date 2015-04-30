@@ -16,3 +16,6 @@ Pong versions
 1. <a href="pong/02-pong-without-sides/">pong without sides</a>
 1. <a href="pong/03-balls-split">balls split</a>
 1. <a href="pong/04-endzones-and-colorful-balls">endzones and colorful balls</a>
+1. <a href="pong/05-pong-with-points">pong with points</a>
+1. <a href="pong/06-pong-with-sounds">pong with sounds</a>
+1. <a href="pong/07-pong-with-start">pong with start</a>
