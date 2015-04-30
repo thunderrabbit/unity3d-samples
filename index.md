@@ -19,3 +19,4 @@ Pong versions
 1. <a href="pong/05-pong-with-points">pong with points</a>
 1. <a href="pong/06-pong-with-sounds">pong with sounds</a>
 1. <a href="pong/07-pong-with-start">pong with start</a>
+1. <a href="pong/08-pong-with-options">pong with options</a>
