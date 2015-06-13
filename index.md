@@ -20,3 +20,11 @@ Pong versions
 1. <a href="pong/06-pong-with-sounds">pong with sounds</a>
 1. <a href="pong/07-pong-with-start">pong with start</a>
 1. <a href="pong/08-pong-with-options">pong with options</a>
+1. <a href="pong/09-pong-with-music">pong with music</a>
+1. <a href="pong/10-pong-one-chance-to-prefer">pong one chance to prefer</a>
+1. <a href="pong/11-pong-with-ai-proof-of-concept">pong with ai proof of concept</a>
+1. <a href="pong/12-pong-with-ai">pong with ai</a>
+1. <a href="pong/13-pong-with-colorized-scoring">pong with colorized scoring</a>
+1. <a href="pong/14-pong-with-more-menus">pong with more menus</a>
+1. <a href="pong/15-pong-with-winners">pong with winners</a>
+1. <a href="pong/16-pong-to-50-points">pong to 50 points</a>
